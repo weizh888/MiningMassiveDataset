@@ -1,7 +1,4 @@
 #!/usr/bin/env python                                                                                                  
-"""                                                                            
-"""
-
 import re
 
 def k_shingle(k):
