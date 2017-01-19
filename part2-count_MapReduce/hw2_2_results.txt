@@ -1,0 +1,55 @@
+31612634 pages in total were accessed.
+
+3416447 different pages were accessed.
+
+The top 50 pages are
+http://en.wikipedia.org/wiki/Main_Page  1114524
+http://en.wikipedia.org/wiki/  328487
+http://en.wikipedia.org/wiki/Wiki  35100
+http://en.wikipedia.org/wiki/Jena_Six  25817
+http://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day  17900
+http://en.wikipedia.org/wiki/Wikipedia  13145
+http://en.wikipedia.org/wiki/Portal:Current_events  12557
+http://en.wikipedia.org/wiki/Halo_3  12372
+http://en.wikipedia.org/wiki/United_States  11743
+http://en.wikipedia.org/wiki/Wikipedia:Contents  11730
+http://en.wikipedia.org/wiki/Naruto  9189
+http://en.wikipedia.org/wiki/Ireland  8916
+http://en.wikipedia.org/wiki/Wikipedia:Featured_content  8804
+http://en.wikipedia.org/wiki/Deaths_in_2007  8696
+http://en.wikipedia.org/wiki/O.J._Simpson  7837
+http://en.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock  7449
+http://en.wikipedia.org/wiki/HTTP  7390
+http://en.wikipedia.org/wiki/MySpace  7330
+http://en.wikipedia.org/wiki/Vanessa_Hudgens  7310
+http://en.wikipedia.org/wiki/Sex  7070
+http://en.wikipedia.org/wiki/Yom_Kippur  6836
+http://en.wikipedia.org/wiki/Jena,_Louisiana  6753
+http://en.wikipedia.org/wiki/Wikipedia:About  6534
+http://en.wikipedia.org/wiki/Harry_S._Truman  6531
+http://en.wikipedia.org/wiki/Graduation_%28album%29  6384
+http://en.wikipedia.org/wiki/Kanye_West  5846
+http://en.wikipedia.org/wiki/Heroes_%28TV_series%29  5789
+http://en.wikipedia.org/wiki/%25s  5656
+http://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day  5623
+http://en.wikipedia.org/wiki/Chad  5609
+http://en.wikipedia.org/wiki/Google  5572
+http://en.wikipedia.org/wiki/YouTube  5451
+http://en.wikipedia.org/wiki/Wikipedia:Citing_sources  5414
+http://en.wikipedia.org/wiki/Blackwater_USA  5311
+http://en.wikipedia.org/wiki/Cocaine  5195
+http://en.wikipedia.org/wiki/Skull_and_Bones  5194
+http://en.wikipedia.org/wiki/Curtis_%2850_Cent_album%29  5192
+http://en.wikipedia.org/wiki/Global_warming  5164
+http://en.wikipedia.org/wiki/Tom_Felton  5077
+http://en.wikipedia.org/wiki/Jena_6  5069
+http://en.wikipedia.org/wiki/India  4970
+http://en.wikipedia.org/wiki/Love  4962
+http://en.wikipedia.org/wiki/Northwest_Passage  4945
+http://en.wikipedia.org/wiki/List_of_sex_positions  4883
+http://en.wikipedia.org/wiki/Canada  4874
+http://en.wikipedia.org/wiki/50_Cent  4728
+http://en.wikipedia.org/wiki/World_War_II  4709
+http://en.wikipedia.org/wiki/Japan  4670
+http://en.wikipedia.org/wiki/List_of_countries_by_current_account_balance  4657
+http://en.wikipedia.org/wiki/Gossip_Girl  4589
